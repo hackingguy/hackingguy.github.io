@@ -13,6 +13,12 @@ body {
 img {
   border-radius: 50%;
   height: 16 rem;
+  padding:4px;
+  border: 2px solid white;
+}
+img:hover {
+  transform:scale(1.05);
+  transition-duration: 1s;
 }
 .page-wrapper {
   display: grid;
