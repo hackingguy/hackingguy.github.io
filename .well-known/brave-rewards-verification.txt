@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hackingguy.codes
+Token: a02cec79f600067470599641147865d124fccf82dda1e02e41856405f3c43257
